@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string-array name="selectedCategory">
+        <item>all</item>
+        <item>school</item>
+        <item>website</item>
+        <item>work</item>
+        <item>art</item>
+    </string-array>
+</resources>
